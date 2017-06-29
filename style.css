@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/92/ee/e5/92eee5389e101397c2011fed3cf6f15d--samsung-wallpaper-android-wallpapers-phone.jpg");
+    background-repeat: repeat-x;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+button {
+  border-color: #000;
+  background-color: "white";
+  color: #000;
+  font-size: 20px;
+}
+#quoteDisplay {
+  padding: 60px;
+  font-size: 30px;
+}
